@@ -3,7 +3,7 @@ body { margin: 60px auto; width: 70%; }
 a { text-decoration: none; color: #3FABC8; }
 a:hover { text-decoration: underline; }
 
-p, ul { font-size: 1.2em; line-height: 1.4em; color: #333; }
+p, ul { font-size: 1.2em; line-height: 1.4em; color: #131212; }
 /*'Helvetica', 'Arial', */
 h1, h2, h3, h4 { font-family: 'Sans-Serif'; }
 h1 { font-size: 3em;  }
